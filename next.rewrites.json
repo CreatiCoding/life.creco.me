@@ -2,5 +2,9 @@
   {
     "source": "/post",
     "destination": "https://creco.me/post"
+  },
+  {
+    "source": "/calories",
+    "destination": "https://calories-log.net"
   }
 ]
