@@ -6,5 +6,9 @@
   {
     "source": "/calories",
     "destination": "https://calories-log.net"
+  },
+  {
+    "source": "/calories/:path*",
+    "destination": "https://calories-log.net/:path*"
   }
 ]
